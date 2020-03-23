@@ -1,6 +1,6 @@
 import React from 'react';
 import { SafeAreaView, Text } from 'react-native';
-import basic from '@components/Botton/style'
+import button from '@components/Botton/style'
 
 import Botton from '@components/Botton'
 
@@ -10,18 +10,26 @@ export default function SplashScreen() {
         <SafeAreaView style={{flex: 1}}>
             <Text>SplashScreen</Text>
             <Botton 
-                    boton={basic.solid}
-                    image={require('../../assets/facebook.png')}
-                    colortext={basic.textsolid}
+                    boton={button.solid}
+                    // image={require('../../assets/facebook.png')}
+                    colortext={button.textsolid}
                     title={'Boton'}
                     
             />
              <Botton 
-                    boton={basic.basic}
+                    boton={button.basic}
                     image={require('../../assets/facebook.png')}
-                    colortext={basic.textbasic}
+                    colortext={button.textbasic}
                     title={'Boton'}
             />
+             <Botton 
+                    boton={button.disable}
+                    // image={require('../../assets/facebook.png')}
+                    colortext={button.textsolid}
+                    title={'Boton'}
+                    disable={true}
+            />
+            
         </SafeAreaView>
     )
 }

@@ -1,15 +1,17 @@
 import { StyleSheet } from "react-native";
 
-const basic = StyleSheet.create(
+const button = StyleSheet.create(
     {
-        textbasic:{fontFamily:'SpaceGrotesk',
-        color:'#07A004',
-        fontWeight:'bold'
+        textbasic:{
+            fontFamily:'SpaceGroteskBold',
+            color:'#07A004',
+            fontWeight:'bold',
+            marginRight: '20%'
         },
         basic:{
             flexDirection:'row',
             backgroundColor:'#FFFFFF',
-            height: '10%',
+            height: '9%',
             width: '90%' ,
             borderColor:'#07A004',
             borderRadius:8,
@@ -28,20 +30,38 @@ const basic = StyleSheet.create(
         solid:{
             flexDirection:'row',
             backgroundColor:'#07A004',
-            height: '10%',
+            height: '9%',
             width: '90%' ,
             borderColor:'#07A004',
             borderRadius:8,
             borderWidth:1.5
         },
         textsolid:{
-            fontFamily:'SpaceGrotesk',
-            color:'#FFF',
-            fontWeight:'bold'
+            fontFamily:'SpaceGroteskBold',
+            color:'#FFFFFF',
+            fontWeight:'bold',
+            marginRight: '20%'
         },
+        disable:{
+            flexDirection:'row',
+            backgroundColor:'#E0E0E0',
+            height: '9%',
+            width: '90%' ,
+            borderColor:'#E0E0E0',
+            borderRadius:8,
+            borderWidth:1.5,
+            shadowColor: "#000",
+            shadowOffset: {
+                width: 0,
+                height: 2,
+            },
+            shadowOpacity: 0.23,
+            shadowRadius: 2.62,
+            elevation: 4,
+        }
 
 
     }
 )
 
-export default basic;
+export default button;
