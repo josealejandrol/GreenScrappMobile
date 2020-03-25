@@ -8,7 +8,7 @@ import Botton from '@components/Botton'
 export default function SplashScreen() {
     return(
         <SafeAreaView style={{flex: 1}}>
-            <Text>SplashScreen</Text>
+            <Text style={{fontFamily: 'SpaceGrotesk-Medium', fontSize: 32}}>SplashScreen</Text>
             <Botton 
                     boton={button.solid}
                     // image={require('../../assets/facebook.png')}
