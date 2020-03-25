@@ -7,14 +7,14 @@ const Stack = createStackNavigator();
 //screens
 import SplashScreen from '@screens/SplashScreen';
 
-function AppNavigator(){
-    return(
-        <NavigationContainer>
-            <Stack.Navigator>
-                <Stack.Screen name={'SplashScreen'} component={SplashScreen} />
-            </Stack.Navigator>
-        </NavigationContainer>
-    )
-}
+const AppNavigator = () => {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator>
+        <Stack.Screen name={'SplashScreen'} component={SplashScreen} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+};
 
 export default AppNavigator;
