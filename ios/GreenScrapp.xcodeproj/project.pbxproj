@@ -12,6 +12,11 @@
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		186B3EB5242AE46E005224E9 /* SpaceGrotesk-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 186B3EB0242AE46E005224E9 /* SpaceGrotesk-Regular.otf */; };
+		186B3EB6242AE46E005224E9 /* SpaceGrotesk-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 186B3EB1242AE46E005224E9 /* SpaceGrotesk-SemiBold.otf */; };
+		186B3EB7242AE46E005224E9 /* SpaceGrotesk-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 186B3EB2242AE46E005224E9 /* SpaceGrotesk-Bold.otf */; };
+		186B3EB8242AE46E005224E9 /* SpaceGrotesk-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 186B3EB3242AE46E005224E9 /* SpaceGrotesk-Medium.otf */; };
+		186B3EB9242AE46E005224E9 /* SpaceGrotesk-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 186B3EB4242AE46E005224E9 /* SpaceGrotesk-Light.otf */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -20,21 +25,6 @@
 		56581A03C7D4F7F3580AA68D /* libPods-GreenScrappTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A77B2B3A2B02C70B398B7252 /* libPods-GreenScrappTests.a */; };
 		A4F5C04BE689F9FFA45E2740 /* libPods-GreenScrapp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EFF5C252F76A4C3FE9D0C9DB /* libPods-GreenScrapp-tvOSTests.a */; };
 		D09D1FD089E3BAD352B1C0E0 /* libPods-GreenScrapp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BF045F73937619A71206F686 /* libPods-GreenScrapp.a */; };
-		64B31167670341C0B8823004 /* SpaceGrotesk-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = CC951E37909B4BDDA15671D0 /* SpaceGrotesk-Bold.otf */; };
-		DF8F5D87C33F406B878C3E99 /* SpaceGrotesk-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5CE6327487E47878D2E313A /* SpaceGrotesk-Light.otf */; };
-		CC7313D4CA91436CA71A5DB4 /* SpaceGrotesk-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F612B2A67C3465091338F25 /* SpaceGrotesk-Medium.otf */; };
-		20885D3D098046799168F3A3 /* SpaceGrotesk-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = AE2DF84C733F4A78B2E41650 /* SpaceGrotesk-Regular.otf */; };
-		521A45D8478B465CBF769D30 /* SpaceGrotesk-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 93DC324CAE3F40A59D24CAB1 /* SpaceGrotesk-SemiBold.otf */; };
-		67C00CA544714B0DB556F5D5 /* SpaceGrotesk-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA3ECBE3088D4522B8D21F08 /* SpaceGrotesk-Bold.ttf */; };
-		B2576F92FB984209844B0DC7 /* SpaceGrotesk-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4DD3C71255F641F6B3F43682 /* SpaceGrotesk-Light.ttf */; };
-		027F691839B440959E770FD6 /* SpaceGrotesk-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C5F7BFD147094347B4B2DC6B /* SpaceGrotesk-Medium.ttf */; };
-		C068B1BB85534F3993D5A7EE /* SpaceGrotesk-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3AC143E7F7DB47DC897A472F /* SpaceGrotesk-Regular.ttf */; };
-		CE060EBD8CD0425FAE0A7675 /* SpaceGrotesk-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CF19DA6B39A042889C80306A /* SpaceGrotesk-SemiBold.ttf */; };
-		47DF76DF774C43509A01FFBC /* SpaceGroteskBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 635051D8BA7D40D386CFB7C8 /* SpaceGroteskBold.ttf */; };
-		9BF48BC9FBDA4C9B8A2FD3FD /* SpaceGroteskLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAD3FFC68D2B49F5A6E0CE20 /* SpaceGroteskLight.ttf */; };
-		F3CD7C298CD04FB185FCCFB7 /* SpaceGroteskMedium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6F8C7A5F236243ABB8897CF5 /* SpaceGroteskMedium.ttf */; };
-		E3D97517CC9047ACAB858D87 /* SpaceGroteskRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 09980D52E174426DB5A26192 /* SpaceGroteskRegular.ttf */; };
-		EC953E7DBC154823ADBE52F7 /* SpaceGroteskSemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2710694D1B344A6A8C0B111 /* SpaceGroteskSemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +50,7 @@
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* GreenScrappTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GreenScrappTests.m; sourceTree = "<group>"; };
 		0792379B67BD728FDB822200 /* libPods-GreenScrapp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GreenScrapp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		09980D52E174426DB5A26192 /* SpaceGroteskRegular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SpaceGroteskRegular.ttf; path = ../assets/fonts/SpaceGroteskRegular.ttf; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* GreenScrapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GreenScrapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = GreenScrapp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = GreenScrapp/AppDelegate.m; sourceTree = "<group>"; };
@@ -67,36 +58,40 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = GreenScrapp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = GreenScrapp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = GreenScrapp/main.m; sourceTree = "<group>"; };
+		186B3EB0242AE46E005224E9 /* SpaceGrotesk-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SpaceGrotesk-Regular.otf"; sourceTree = "<group>"; };
+		186B3EB1242AE46E005224E9 /* SpaceGrotesk-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SpaceGrotesk-SemiBold.otf"; sourceTree = "<group>"; };
+		186B3EB2242AE46E005224E9 /* SpaceGrotesk-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SpaceGrotesk-Bold.otf"; sourceTree = "<group>"; };
+		186B3EB3242AE46E005224E9 /* SpaceGrotesk-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SpaceGrotesk-Medium.otf"; sourceTree = "<group>"; };
+		186B3EB4242AE46E005224E9 /* SpaceGrotesk-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SpaceGrotesk-Light.otf"; sourceTree = "<group>"; };
+		1F612B2A67C3465091338F25 /* SpaceGrotesk-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Medium.otf"; path = "../assets/fonts/SpaceGrotesk-Medium.otf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* GreenScrapp-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GreenScrapp-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* GreenScrapp-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GreenScrapp-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E77FAEF22FD46732293A05B /* Pods-GreenScrapp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrapp-tvOS.release.xcconfig"; path = "Target Support Files/Pods-GreenScrapp-tvOS/Pods-GreenScrapp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		3AC143E7F7DB47DC897A472F /* SpaceGrotesk-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Regular.ttf"; path = "../assets/fonts/SpaceGrotesk-Regular.ttf"; sourceTree = "<group>"; };
+		4DD3C71255F641F6B3F43682 /* SpaceGrotesk-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Light.ttf"; path = "../assets/fonts/SpaceGrotesk-Light.ttf"; sourceTree = "<group>"; };
+		635051D8BA7D40D386CFB7C8 /* SpaceGroteskBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SpaceGroteskBold.ttf; path = ../assets/fonts/SpaceGroteskBold.ttf; sourceTree = "<group>"; };
 		66F552DAB76AE253F0FD4A8F /* Pods-GreenScrapp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrapp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-GreenScrapp-tvOS/Pods-GreenScrapp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		69B1BD3118B26149E04DC4B1 /* Pods-GreenScrappTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrappTests.release.xcconfig"; path = "Target Support Files/Pods-GreenScrappTests/Pods-GreenScrappTests.release.xcconfig"; sourceTree = "<group>"; };
+		6F8C7A5F236243ABB8897CF5 /* SpaceGroteskMedium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SpaceGroteskMedium.ttf; path = ../assets/fonts/SpaceGroteskMedium.ttf; sourceTree = "<group>"; };
 		74A1A9460C68A55A453C99F3 /* Pods-GreenScrappTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrappTests.debug.xcconfig"; path = "Target Support Files/Pods-GreenScrappTests/Pods-GreenScrappTests.debug.xcconfig"; sourceTree = "<group>"; };
 		758642F702C661C2337529C3 /* Pods-GreenScrapp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrapp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-GreenScrapp-tvOSTests/Pods-GreenScrapp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		8DB310A8D89E5A3357E37619 /* Pods-GreenScrapp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrapp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-GreenScrapp-tvOSTests/Pods-GreenScrapp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		92673F4B75ABD29205A817B5 /* Pods-GreenScrapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrapp.release.xcconfig"; path = "Target Support Files/Pods-GreenScrapp/Pods-GreenScrapp.release.xcconfig"; sourceTree = "<group>"; };
+		93DC324CAE3F40A59D24CAB1 /* SpaceGrotesk-SemiBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-SemiBold.otf"; path = "../assets/fonts/SpaceGrotesk-SemiBold.otf"; sourceTree = "<group>"; };
+		A2710694D1B344A6A8C0B111 /* SpaceGroteskSemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SpaceGroteskSemiBold.ttf; path = ../assets/fonts/SpaceGroteskSemiBold.ttf; sourceTree = "<group>"; };
 		A77B2B3A2B02C70B398B7252 /* libPods-GreenScrappTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GreenScrappTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AE2DF84C733F4A78B2E41650 /* SpaceGrotesk-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Regular.otf"; path = "../assets/fonts/SpaceGrotesk-Regular.otf"; sourceTree = "<group>"; };
+		BAD3FFC68D2B49F5A6E0CE20 /* SpaceGroteskLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SpaceGroteskLight.ttf; path = ../assets/fonts/SpaceGroteskLight.ttf; sourceTree = "<group>"; };
 		BF045F73937619A71206F686 /* libPods-GreenScrapp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GreenScrapp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C5F7BFD147094347B4B2DC6B /* SpaceGrotesk-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Medium.ttf"; path = "../assets/fonts/SpaceGrotesk-Medium.ttf"; sourceTree = "<group>"; };
 		CC416C38F66A09482606D99E /* Pods-GreenScrapp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrapp.debug.xcconfig"; path = "Target Support Files/Pods-GreenScrapp/Pods-GreenScrapp.debug.xcconfig"; sourceTree = "<group>"; };
+		CC951E37909B4BDDA15671D0 /* SpaceGrotesk-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Bold.otf"; path = "../assets/fonts/SpaceGrotesk-Bold.otf"; sourceTree = "<group>"; };
+		CF19DA6B39A042889C80306A /* SpaceGrotesk-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-SemiBold.ttf"; path = "../assets/fonts/SpaceGrotesk-SemiBold.ttf"; sourceTree = "<group>"; };
+		DA3ECBE3088D4522B8D21F08 /* SpaceGrotesk-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Bold.ttf"; path = "../assets/fonts/SpaceGrotesk-Bold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		EFF5C252F76A4C3FE9D0C9DB /* libPods-GreenScrapp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GreenScrapp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CC951E37909B4BDDA15671D0 /* SpaceGrotesk-Bold.otf */ = {isa = PBXFileReference; name = "SpaceGrotesk-Bold.otf"; path = "../assets/fonts/SpaceGrotesk-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		F5CE6327487E47878D2E313A /* SpaceGrotesk-Light.otf */ = {isa = PBXFileReference; name = "SpaceGrotesk-Light.otf"; path = "../assets/fonts/SpaceGrotesk-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		1F612B2A67C3465091338F25 /* SpaceGrotesk-Medium.otf */ = {isa = PBXFileReference; name = "SpaceGrotesk-Medium.otf"; path = "../assets/fonts/SpaceGrotesk-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		AE2DF84C733F4A78B2E41650 /* SpaceGrotesk-Regular.otf */ = {isa = PBXFileReference; name = "SpaceGrotesk-Regular.otf"; path = "../assets/fonts/SpaceGrotesk-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		93DC324CAE3F40A59D24CAB1 /* SpaceGrotesk-SemiBold.otf */ = {isa = PBXFileReference; name = "SpaceGrotesk-SemiBold.otf"; path = "../assets/fonts/SpaceGrotesk-SemiBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		DA3ECBE3088D4522B8D21F08 /* SpaceGrotesk-Bold.ttf */ = {isa = PBXFileReference; name = "SpaceGrotesk-Bold.ttf"; path = "../assets/fonts/SpaceGrotesk-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		4DD3C71255F641F6B3F43682 /* SpaceGrotesk-Light.ttf */ = {isa = PBXFileReference; name = "SpaceGrotesk-Light.ttf"; path = "../assets/fonts/SpaceGrotesk-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		C5F7BFD147094347B4B2DC6B /* SpaceGrotesk-Medium.ttf */ = {isa = PBXFileReference; name = "SpaceGrotesk-Medium.ttf"; path = "../assets/fonts/SpaceGrotesk-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		3AC143E7F7DB47DC897A472F /* SpaceGrotesk-Regular.ttf */ = {isa = PBXFileReference; name = "SpaceGrotesk-Regular.ttf"; path = "../assets/fonts/SpaceGrotesk-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		CF19DA6B39A042889C80306A /* SpaceGrotesk-SemiBold.ttf */ = {isa = PBXFileReference; name = "SpaceGrotesk-SemiBold.ttf"; path = "../assets/fonts/SpaceGrotesk-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		635051D8BA7D40D386CFB7C8 /* SpaceGroteskBold.ttf */ = {isa = PBXFileReference; name = "SpaceGroteskBold.ttf"; path = "../assets/fonts/SpaceGroteskBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		BAD3FFC68D2B49F5A6E0CE20 /* SpaceGroteskLight.ttf */ = {isa = PBXFileReference; name = "SpaceGroteskLight.ttf"; path = "../assets/fonts/SpaceGroteskLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		6F8C7A5F236243ABB8897CF5 /* SpaceGroteskMedium.ttf */ = {isa = PBXFileReference; name = "SpaceGroteskMedium.ttf"; path = "../assets/fonts/SpaceGroteskMedium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		09980D52E174426DB5A26192 /* SpaceGroteskRegular.ttf */ = {isa = PBXFileReference; name = "SpaceGroteskRegular.ttf"; path = "../assets/fonts/SpaceGroteskRegular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		A2710694D1B344A6A8C0B111 /* SpaceGroteskSemiBold.ttf */ = {isa = PBXFileReference; name = "SpaceGroteskSemiBold.ttf"; path = "../assets/fonts/SpaceGroteskSemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F5CE6327487E47878D2E313A /* SpaceGrotesk-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Light.otf"; path = "../assets/fonts/SpaceGrotesk-Light.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,6 +184,11 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				186B3EB2242AE46E005224E9 /* SpaceGrotesk-Bold.otf */,
+				186B3EB4242AE46E005224E9 /* SpaceGrotesk-Light.otf */,
+				186B3EB3242AE46E005224E9 /* SpaceGrotesk-Medium.otf */,
+				186B3EB0242AE46E005224E9 /* SpaceGrotesk-Regular.otf */,
+				186B3EB1242AE46E005224E9 /* SpaceGrotesk-SemiBold.otf */,
 				13B07FAE1A68108700A75B9A /* GreenScrapp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* GreenScrappTests */,
@@ -213,24 +213,8 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EA369996428D6769D5BE4D84 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				CC416C38F66A09482606D99E /* Pods-GreenScrapp.debug.xcconfig */,
-				92673F4B75ABD29205A817B5 /* Pods-GreenScrapp.release.xcconfig */,
-				66F552DAB76AE253F0FD4A8F /* Pods-GreenScrapp-tvOS.debug.xcconfig */,
-				2E77FAEF22FD46732293A05B /* Pods-GreenScrapp-tvOS.release.xcconfig */,
-				8DB310A8D89E5A3357E37619 /* Pods-GreenScrapp-tvOSTests.debug.xcconfig */,
-				758642F702C661C2337529C3 /* Pods-GreenScrapp-tvOSTests.release.xcconfig */,
-				74A1A9460C68A55A453C99F3 /* Pods-GreenScrappTests.debug.xcconfig */,
-				69B1BD3118B26149E04DC4B1 /* Pods-GreenScrappTests.release.xcconfig */,
-			);
-			name = Pods;
-			path = Pods;
-			sourceTree = "<group>";
-		};
 		852850B7188841038D440D62 /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				CC951E37909B4BDDA15671D0 /* SpaceGrotesk-Bold.otf */,
 				F5CE6327487E47878D2E313A /* SpaceGrotesk-Light.otf */,
@@ -250,7 +234,21 @@
 			);
 			name = Resources;
 			sourceTree = "<group>";
-			path = "";
+		};
+		EA369996428D6769D5BE4D84 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CC416C38F66A09482606D99E /* Pods-GreenScrapp.debug.xcconfig */,
+				92673F4B75ABD29205A817B5 /* Pods-GreenScrapp.release.xcconfig */,
+				66F552DAB76AE253F0FD4A8F /* Pods-GreenScrapp-tvOS.debug.xcconfig */,
+				2E77FAEF22FD46732293A05B /* Pods-GreenScrapp-tvOS.release.xcconfig */,
+				8DB310A8D89E5A3357E37619 /* Pods-GreenScrapp-tvOSTests.debug.xcconfig */,
+				758642F702C661C2337529C3 /* Pods-GreenScrapp-tvOSTests.release.xcconfig */,
+				74A1A9460C68A55A453C99F3 /* Pods-GreenScrappTests.debug.xcconfig */,
+				69B1BD3118B26149E04DC4B1 /* Pods-GreenScrappTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
@@ -339,7 +337,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 940;
+				LastUpgradeCheck = 1140;
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
@@ -362,6 +360,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -391,22 +390,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				186B3EB5242AE46E005224E9 /* SpaceGrotesk-Regular.otf in Resources */,
+				186B3EB9242AE46E005224E9 /* SpaceGrotesk-Light.otf in Resources */,
+				186B3EB7242AE46E005224E9 /* SpaceGrotesk-Bold.otf in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				64B31167670341C0B8823004 /* SpaceGrotesk-Bold.otf in Resources */,
-				DF8F5D87C33F406B878C3E99 /* SpaceGrotesk-Light.otf in Resources */,
-				CC7313D4CA91436CA71A5DB4 /* SpaceGrotesk-Medium.otf in Resources */,
-				20885D3D098046799168F3A3 /* SpaceGrotesk-Regular.otf in Resources */,
-				521A45D8478B465CBF769D30 /* SpaceGrotesk-SemiBold.otf in Resources */,
-				67C00CA544714B0DB556F5D5 /* SpaceGrotesk-Bold.ttf in Resources */,
-				B2576F92FB984209844B0DC7 /* SpaceGrotesk-Light.ttf in Resources */,
-				027F691839B440959E770FD6 /* SpaceGrotesk-Medium.ttf in Resources */,
-				C068B1BB85534F3993D5A7EE /* SpaceGrotesk-Regular.ttf in Resources */,
-				CE060EBD8CD0425FAE0A7675 /* SpaceGrotesk-SemiBold.ttf in Resources */,
-				47DF76DF774C43509A01FFBC /* SpaceGroteskBold.ttf in Resources */,
-				9BF48BC9FBDA4C9B8A2FD3FD /* SpaceGroteskLight.ttf in Resources */,
-				F3CD7C298CD04FB185FCCFB7 /* SpaceGroteskMedium.ttf in Resources */,
-				E3D97517CC9047ACAB858D87 /* SpaceGroteskRegular.ttf in Resources */,
-				EC953E7DBC154823ADBE52F7 /* SpaceGroteskSemiBold.ttf in Resources */,
+				186B3EB6242AE46E005224E9 /* SpaceGrotesk-SemiBold.otf in Resources */,
+				186B3EB8242AE46E005224E9 /* SpaceGrotesk-Medium.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -440,7 +429,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
 		};
 		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -843,6 +832,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -896,6 +886,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
