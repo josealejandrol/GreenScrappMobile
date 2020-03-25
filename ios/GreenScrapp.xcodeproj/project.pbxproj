@@ -67,31 +67,47 @@
 		2D02E47B1E0B4A5D006451C7 /* GreenScrapp-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GreenScrapp-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* GreenScrapp-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GreenScrapp-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E77FAEF22FD46732293A05B /* Pods-GreenScrapp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrapp-tvOS.release.xcconfig"; path = "Target Support Files/Pods-GreenScrapp-tvOS/Pods-GreenScrapp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		39021A6A80384AA8AC88633C /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		3AC143E7F7DB47DC897A472F /* SpaceGrotesk-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Regular.ttf"; path = "../assets/fonts/SpaceGrotesk-Regular.ttf"; sourceTree = "<group>"; };
+		4DC7286E4F654DA9A97A9030 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		4DD3C71255F641F6B3F43682 /* SpaceGrotesk-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Light.ttf"; path = "../assets/fonts/SpaceGrotesk-Light.ttf"; sourceTree = "<group>"; };
+		52BB44C25EFC44E8A1C9F22D /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		579FC4B56E9543138F576C9C /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		5ECB3B88DCC2499DA8B7CC77 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
+		60E5DBA678C544848906DB68 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		635051D8BA7D40D386CFB7C8 /* SpaceGroteskBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SpaceGroteskBold.ttf; path = ../assets/fonts/SpaceGroteskBold.ttf; sourceTree = "<group>"; };
 		66F552DAB76AE253F0FD4A8F /* Pods-GreenScrapp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrapp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-GreenScrapp-tvOS/Pods-GreenScrapp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		69B1BD3118B26149E04DC4B1 /* Pods-GreenScrappTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrappTests.release.xcconfig"; path = "Target Support Files/Pods-GreenScrappTests/Pods-GreenScrappTests.release.xcconfig"; sourceTree = "<group>"; };
 		6F8C7A5F236243ABB8897CF5 /* SpaceGroteskMedium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SpaceGroteskMedium.ttf; path = ../assets/fonts/SpaceGroteskMedium.ttf; sourceTree = "<group>"; };
 		74A1A9460C68A55A453C99F3 /* Pods-GreenScrappTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrappTests.debug.xcconfig"; path = "Target Support Files/Pods-GreenScrappTests/Pods-GreenScrappTests.debug.xcconfig"; sourceTree = "<group>"; };
 		758642F702C661C2337529C3 /* Pods-GreenScrapp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrapp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-GreenScrapp-tvOSTests/Pods-GreenScrapp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		7FAC69C2AA5A4C6E9B71E53E /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		8762D2FE782B45CA9AD2DDBD /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
 		8DB310A8D89E5A3357E37619 /* Pods-GreenScrapp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrapp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-GreenScrapp-tvOSTests/Pods-GreenScrapp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		92673F4B75ABD29205A817B5 /* Pods-GreenScrapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrapp.release.xcconfig"; path = "Target Support Files/Pods-GreenScrapp/Pods-GreenScrapp.release.xcconfig"; sourceTree = "<group>"; };
 		93DC324CAE3F40A59D24CAB1 /* SpaceGrotesk-SemiBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-SemiBold.otf"; path = "../assets/fonts/SpaceGrotesk-SemiBold.otf"; sourceTree = "<group>"; };
+		99F982CA47FF43E48A630EE0 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
 		A2710694D1B344A6A8C0B111 /* SpaceGroteskSemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SpaceGroteskSemiBold.ttf; path = ../assets/fonts/SpaceGroteskSemiBold.ttf; sourceTree = "<group>"; };
 		A77B2B3A2B02C70B398B7252 /* libPods-GreenScrappTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GreenScrappTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE2DF84C733F4A78B2E41650 /* SpaceGrotesk-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Regular.otf"; path = "../assets/fonts/SpaceGrotesk-Regular.otf"; sourceTree = "<group>"; };
+		B40E6FD86EC345BFA689D1F1 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		BAD3FFC68D2B49F5A6E0CE20 /* SpaceGroteskLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SpaceGroteskLight.ttf; path = ../assets/fonts/SpaceGroteskLight.ttf; sourceTree = "<group>"; };
 		BF045F73937619A71206F686 /* libPods-GreenScrapp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GreenScrapp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C2D90F34BA1B487DAA545B0A /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
 		C5F7BFD147094347B4B2DC6B /* SpaceGrotesk-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Medium.ttf"; path = "../assets/fonts/SpaceGrotesk-Medium.ttf"; sourceTree = "<group>"; };
 		CC416C38F66A09482606D99E /* Pods-GreenScrapp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GreenScrapp.debug.xcconfig"; path = "Target Support Files/Pods-GreenScrapp/Pods-GreenScrapp.debug.xcconfig"; sourceTree = "<group>"; };
 		CC951E37909B4BDDA15671D0 /* SpaceGrotesk-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Bold.otf"; path = "../assets/fonts/SpaceGrotesk-Bold.otf"; sourceTree = "<group>"; };
+		CCEEE5DCE92A447399CFBE4E /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
 		CF19DA6B39A042889C80306A /* SpaceGrotesk-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-SemiBold.ttf"; path = "../assets/fonts/SpaceGrotesk-SemiBold.ttf"; sourceTree = "<group>"; };
 		DA3ECBE3088D4522B8D21F08 /* SpaceGrotesk-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Bold.ttf"; path = "../assets/fonts/SpaceGrotesk-Bold.ttf"; sourceTree = "<group>"; };
+		DCCBB509C4FB4EC5AFB1475C /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
+		E9E2681C78DF430EBCD37175 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		EFF5C252F76A4C3FE9D0C9DB /* libPods-GreenScrapp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GreenScrapp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F51C4898DF3B4B0BA5ADCF27 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		F5CE6327487E47878D2E313A /* SpaceGrotesk-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SpaceGrotesk-Light.otf"; path = "../assets/fonts/SpaceGrotesk-Light.otf"; sourceTree = "<group>"; };
+		FB1B0A1DFD57490AA8A63061 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -231,6 +247,22 @@
 				6F8C7A5F236243ABB8897CF5 /* SpaceGroteskMedium.ttf */,
 				09980D52E174426DB5A26192 /* SpaceGroteskRegular.ttf */,
 				A2710694D1B344A6A8C0B111 /* SpaceGroteskSemiBold.ttf */,
+				5ECB3B88DCC2499DA8B7CC77 /* AntDesign.ttf */,
+				52BB44C25EFC44E8A1C9F22D /* Entypo.ttf */,
+				579FC4B56E9543138F576C9C /* EvilIcons.ttf */,
+				99F982CA47FF43E48A630EE0 /* Feather.ttf */,
+				39021A6A80384AA8AC88633C /* FontAwesome.ttf */,
+				C2D90F34BA1B487DAA545B0A /* FontAwesome5_Brands.ttf */,
+				7FAC69C2AA5A4C6E9B71E53E /* FontAwesome5_Regular.ttf */,
+				60E5DBA678C544848906DB68 /* FontAwesome5_Solid.ttf */,
+				CCEEE5DCE92A447399CFBE4E /* Fontisto.ttf */,
+				8762D2FE782B45CA9AD2DDBD /* Foundation.ttf */,
+				E9E2681C78DF430EBCD37175 /* Ionicons.ttf */,
+				F51C4898DF3B4B0BA5ADCF27 /* MaterialCommunityIcons.ttf */,
+				B40E6FD86EC345BFA689D1F1 /* MaterialIcons.ttf */,
+				4DC7286E4F654DA9A97A9030 /* Octicons.ttf */,
+				DCCBB509C4FB4EC5AFB1475C /* SimpleLineIcons.ttf */,
+				FB1B0A1DFD57490AA8A63061 /* Zocial.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -282,6 +314,7 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				974126615C4E7F203D130D55 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -390,10 +423,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 				186B3EB5242AE46E005224E9 /* SpaceGrotesk-Regular.otf in Resources */,
 				186B3EB9242AE46E005224E9 /* SpaceGrotesk-Light.otf in Resources */,
 				186B3EB7242AE46E005224E9 /* SpaceGrotesk-Bold.otf in Resources */,
-				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 				186B3EB6242AE46E005224E9 /* SpaceGrotesk-SemiBold.otf in Resources */,
 				186B3EB8242AE46E005224E9 /* SpaceGrotesk-Medium.otf in Resources */,
 			);
@@ -487,6 +520,54 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		974126615C4E7F203D130D55 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GreenScrapp/Pods-GreenScrapp-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GreenScrapp/Pods-GreenScrapp-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		99FD23815691C106A758E618 /* [CP] Check Pods Manifest.lock */ = {
