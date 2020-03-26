@@ -11,20 +11,31 @@ import SplashScreen from '@screens/SplashScreen';
 const AppNavigator = () => {
   return (
     <NavigationContainer>
-      <Stack.Navigator 
-        screenOptions={{
-            header: ({ navigation }) => {
-                        return <Header
-                        icoback={require('../assets/close.png')}
-                        title={'Registrate'}
-                        alternativeText={'Iniciar sesión'}
-                        logo={require('../assets/logo.png')}
-                        />
+      <Stack.Navigator  >
+        <Stack.Screen 
+            name={'SplashScreen'} 
+            component={SplashScreen} 
+            options={{
+                header: ({ navigation,scene, previous, }) => {
+                  const { options } = scene.descriptor;
+                  const title =
+                    options.headerTitle !== undefined
+                      ? options.headerTitle
+                      : options.title !== undefined
+                      ? options.title
+                      : scene.route.name; 
+                  return <Header
+                    icoback={require('../assets/close.png')}
+                    title={title}
+                    alternativeText={'Iniciar sesión'}
+                    logo={require('../assets/logo.png')}
+                    back={
+                      previous ? navigation.goBack : undefined
                     }
+                    />
                 }
-            }
-      >
-        <Stack.Screen name={'SplashScreen'} component={SplashScreen} />
+            }}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );
