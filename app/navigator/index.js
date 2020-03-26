@@ -8,12 +8,12 @@ const Stack = createStackNavigator();
 //screens
 import SplashScreen from '@screens/SplashScreen';
 
-function AppNavigator(){
-    return(
-        <NavigationContainer>
-            <Stack.Navigator 
-                screenOptions={{
-                    header: ({ navigation }) => {
+const AppNavigator = () => {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator 
+        screenOptions={{
+            header: ({ navigation }) => {
                         return <Header
                         icoback={require('../assets/close.png')}
                         title={'Registrate'}
@@ -23,14 +23,11 @@ function AppNavigator(){
                     }
                 }
             }
-            >
-                <Stack.Screen 
-                    name={'SplashScreen'} 
-                    component={SplashScreen}
-                />
-            </Stack.Navigator>
-        </NavigationContainer>
-    )
-}
+      >
+        <Stack.Screen name={'SplashScreen'} component={SplashScreen} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+};
 
 export default AppNavigator;
