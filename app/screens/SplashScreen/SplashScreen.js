@@ -1,14 +1,20 @@
 import React from 'react';
 import { SafeAreaView, Text } from 'react-native';
-import button from '@components/Botton/style'
-
 import Botton from '@components/Botton'
+import Header from '@components/Header/Header'
 
+//stules
+import button from '@components/Botton/style'
 
 export default function SplashScreen() {
     return(
         <SafeAreaView style={{flex: 1}}>
-            <Text>SplashScreen</Text>
+            {/* <Header
+                icoback={require('../../assets/close.png')}
+                title={'Registrate'}
+                alternativeText={'Iniciar sesión'}
+                logo={require('../../assets/logo.png')}
+            /> */}
             <Botton 
                     boton={button.solid}
                     // image={require('../../assets/facebook.png')}

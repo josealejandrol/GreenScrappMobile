@@ -3,7 +3,7 @@ import { StyleSheet } from "react-native";
 const button = StyleSheet.create(
     {
         textbasic:{
-            fontFamily:'SpaceGroteskBold',
+            fontFamily:'SpaceGrotesk-Bold',
             color:'#07A004',
             fontWeight:'bold',
             marginRight: '20%'
@@ -37,7 +37,7 @@ const button = StyleSheet.create(
             borderWidth:1.5
         },
         textsolid:{
-            fontFamily:'SpaceGroteskBold',
+            fontFamily:'SpaceGrotesk-Bold',
             color:'#FFFFFF',
             fontWeight:'bold',
             marginRight: '20%'

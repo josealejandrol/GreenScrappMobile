@@ -3,8 +3,6 @@ import {TouchableOpacity,Text,Image,View} from 'react-native'
 
 import button from './style' 
 
-
-
 export default function Botton(props) {
     return (
         <TouchableOpacity disabled={props.disable} style={props.boton}>
@@ -15,6 +13,5 @@ export default function Botton(props) {
                 <Text style= {props.colortext}>{props.title}</Text>
             </View>
         </TouchableOpacity> 
-
     )
 }
