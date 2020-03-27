@@ -1,17 +1,24 @@
-import React from 'react';
+import React, {useState} from 'react';
 import {SafeAreaView, Text} from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import button from '@components/Botton/style';
 
 import Botton from '@components/Botton';
+import Input from '@components/Input';
 
 const SplashScreen = () => {
+  const [hidePassword, setHidePassword] = useState(true);
   return (
     <SafeAreaView style={{flex: 1}}>
       <Text style={{fontFamily: 'SpaceGrotesk-Medium', fontSize: 32}}>
         SplashScreen
       </Text>
-      <Icon name={'visibility-off'} size={20} color={'#000'} />
+      <Input
+        placeholder='Contraseña'
+        bolGone={true}
+        secureTextEntry={hidePassword}
+        onPress={()=>setHidePassword(!hidePassword)}
+      />
       <Botton
         boton={button.solid}
         // image={require('../../assets/facebook.png')}
