@@ -31,15 +31,7 @@ const AppNavigator = () => {
                       : options.title !== undefined
                       ? options.title
                       : scene.route.name; 
-                  return <Header
-                    icoback={require('../assets/close.png')}
-                    title={title}
-                    alternativeText={'Iniciar sesión'}
-                    logo={require('../assets/logo.png')}
-                    back={
-                      previous ? navigation.goBack : undefined
-                    }
-                    />
+                  return <Header {...headerConfig } />
                 }
             }}
         />
