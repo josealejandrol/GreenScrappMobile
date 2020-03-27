@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import {SafeAreaView, Text} from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import button from '@components/Botton/style';
+import colors from '@styles/colors';
 
 import Botton from '@components/Botton';
 import Input from '@components/Input';
