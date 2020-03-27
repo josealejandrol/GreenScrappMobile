@@ -9,7 +9,14 @@ const Stack = createStackNavigator();
 import SplashScreen from '@screens/SplashScreen';
 
 const AppNavigator = () => {
-  return (
+   const headerConfig = {
+                    icoback: require('../assets/close.png'),
+                    title: title,
+                    alternativeText: 'Iniciar sesión',
+                    logo: require('../assets/logo.png'),
+                    back: previous ? navigation.goBack : undefined
+   };
+    return (
     <NavigationContainer>
       <Stack.Navigator  >
         <Stack.Screen 
