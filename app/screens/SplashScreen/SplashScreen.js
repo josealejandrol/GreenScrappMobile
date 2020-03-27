@@ -7,7 +7,7 @@ import colors from '@styles/colors';
 import Botton from '@components/Botton';
 import Input from '@components/Input';
 
-export default function SplashScreen() {
+const SplashScreen = () => {
     const [hidePassword, setHidePassword] = useState(true);
     return(
         <SafeAreaView style={{flex: 1, backgroundColor: colors.WHITEPRIMARY}}>
@@ -43,3 +43,4 @@ export default function SplashScreen() {
         </SafeAreaView>
     )
 }
+export default SplashScreen;
